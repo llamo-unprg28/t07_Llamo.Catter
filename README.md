@@ -1,2 +1,6 @@
 # t07_Llamo.Catter
 trabajo7
+
+#INTEGRANTES:
+LLAMO TENORIO JHON
+CATTER ORTIZ CARLA 
