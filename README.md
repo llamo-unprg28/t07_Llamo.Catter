@@ -1,5 +1,5 @@
 # t07_Llamo.Catter
-trabajo7
+trabajo7 - BUCLES EN PYTHON
 
 #INTEGRANTES:
 LLAMO TENORIO JHON
