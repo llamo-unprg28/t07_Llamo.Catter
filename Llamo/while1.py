@@ -1,0 +1,10 @@
+#SOLO LOS MAYORES DE 18  y menores de 60 AÑOS DEBERAN SUFRAGAR EN ESTAS ELECCIONES
+#MOSTRAR EN PANTALLA TIENES QUE SUFRAGAR
+EDAD=0
+EDAD_INVALIDA=(EDAD<18 or EDAD>60)
+while(EDAD_INVALIDA):
+    EDAD=int(input("ingresar edad:"))
+    EDAD_INVALIDA=(EDAD<18 or EDAD>60)
+#fin_while
+print("tiene que sufragar")
+
