@@ -1,0 +1,5 @@
+# MOSTRAR EN PANTALLA LA PALABRA BUENA SUERTE  5 VECES
+
+for i in [1,2,3,4,5]:
+    print("BUENA SUERTE ")
+
